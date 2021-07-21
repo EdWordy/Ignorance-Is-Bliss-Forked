@@ -1,0 +1,10 @@
+C:\Users\Taylor\Desktop\Ignorance Is Bliss Fork\Source\obj\Debug\Ignorance Is Bliss.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\Ignorance Is Bliss Fork\Source\obj\Debug\Ignorance Is Bliss.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ignorance Is Bliss\1.1\Assemblies\IgnoranceIsBliss.dll
+C:\Users\Taylor\Desktop\Ignorance Is Bliss Fork\Source\obj\Debug\Ignorance Is Bliss.csproj.CopyComplete
+C:\Users\Taylor\Desktop\Ignorance Is Bliss Fork\Source\obj\Debug\IgnoranceIsBliss.dll
+F:\Games\SteamLibrary\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Ignorance Is Bliss\1.1\Assemblies\IgnoranceIsBliss.dll
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Ignorance Is Bliss Fork\Source\obj\Debug\Ignorance Is Bliss.csproj.AssemblyReference.cache
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Ignorance Is Bliss Fork\Source\obj\Debug\Ignorance Is Bliss.csproj.CoreCompileInputs.cache
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Ignorance Is Bliss Fork\Source\obj\Debug\Ignorance Is Bliss.csproj.CopyComplete
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Ignorance Is Bliss Fork\Source\obj\Debug\IgnoranceIsBliss.dll
